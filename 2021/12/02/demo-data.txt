@@ -1,0 +1,3 @@
+Initial empty demo data.
+
+Next: copy the simple, demonstration data from inside this day’s puzzle description at https://adventofcode.com/2021/day/2
