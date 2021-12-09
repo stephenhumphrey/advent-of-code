@@ -1,0 +1,5 @@
+Placeholder for tonight's Advent of Code 2021 puzzle.
+
+Next task: when the puzzle posts, copy
+the initial, simple, demonstration data from 
+inside this day’s puzzle description at https://adventofcode.com/2021/day/9
