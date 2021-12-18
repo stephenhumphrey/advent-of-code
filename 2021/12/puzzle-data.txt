@@ -1,3 +1,0 @@
-Initial empty puzzle data
-
-Next: copy my unique puzzle data from https://adventofcode.com/2021/day/12/input
